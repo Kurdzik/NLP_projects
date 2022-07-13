@@ -1,4 +1,6 @@
-<h4> Notebook main.ipynb contains scrapper for newest articles from https://bbc.com/news/world </h4>
+<h1> Scrapper for https://bbc.com/news/world/ for newest articles <h1>
+
+Notebook main.ipynb contains implementation of NMF model for topic modelling
 
 <hr>
 
