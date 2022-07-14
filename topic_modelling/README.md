@@ -1,6 +1,6 @@
-<h1> Scrapper for https://bbc.com/news/world/ for newest articles </h1>
+## Scrapper for https://bbc.com/news/world/ for newest articles
 
-Notebook main.ipynb contains implementation of NMF model for topic modelling
+Notebook `main.ipynb` contains implementation of NMF model for topic modelling
 
 Folder `topic_modelling_kedro` contains kedro project with implemeted pipelines for articles extraction and topic modelling
 
@@ -8,7 +8,7 @@ Folder `topic_modelling_kedro` contains kedro project with implemeted pipelines 
 
 <hr>
 
-In order to use it, 
+## In order to use it, 
 
 1. clone this repo, install kedro `pip install kedro`
 2. install dependencies located in topic_modelling_kedro/src/requirements.txt
