@@ -1,10 +1,10 @@
-from tensorflow import keras
 
-from keras.models import Sequential, Model
-from keras.layers import Embedding
-from keras.layers import Input, Activation, Dense, Permute, Dropout
-from keras.layers import add, dot, concatenate
-from keras.layers import LSTM
+
+from tensorflow.keras.models import Sequential, Model
+from tensorflow.keras.layers import Embedding
+from tensorflow.keras.layers import Input, Activation, Dense, Permute, Dropout
+from tensorflow.keras.layers import add, dot, concatenate
+from tensorflow.keras.layers import LSTM
 
 
 
